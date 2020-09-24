@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Shivam</h2>
 <!--
 **shivam0110/shivam0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shivammalpani111@gmail.com
 - 😄 Pronouns: he/him/his
 -->
-<h2> I'm Shivam</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -40,7 +39,6 @@ Here are some ideas to get you started:
 <hr>
 
 <br/><br/>
-<img width="135px" align="right" src="https://github.com/nirala69/nirala69/blob/master/happy.png">
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
 <br/>
 <br/>
