@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++ | C | MySQL
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS<!--
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+<!--
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 <h3>🛠 To Learn</h3>
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase
 
-<br/>
+<br/><br/><br/>
 
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
 
