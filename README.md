@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **shivam0110/shivam0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 -->
 <h2> I'm Shivam</h2>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
