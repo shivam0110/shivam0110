@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 <h3>🛠 To Learn</h3>
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
 <hr>
-<br/><br/><br/>
+
+<br/><br/>
 <img width="135px" align="right" src="https://github.com/nirala69/nirala69/blob/master/happy.png">
 [![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true&theme=radical)](https://github.com/shivam0110)
 <br/>
@@ -46,6 +47,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110)
 <br><br>
+
+<hr>
 
 <h3> 🤝🏻 Connect with Me </h3>
 <br>
@@ -57,7 +60,6 @@ Here are some ideas to get you started:
 <a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<hr>
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
