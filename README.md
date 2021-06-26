@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 💻 &nbsp; Python | Java | C++ | C 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJS
 - 🛢 &nbsp; MySQL | MongoDB
-- <!--
+<!--
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 -->
