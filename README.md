@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-<!--
+- 💻 &nbsp; Python | Java | C++ | C 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJS
 - 🛢 &nbsp; MySQL | MongoDB
+- <!--
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 -->
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shivammalpani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sh1v__am/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sh1v__am-black?style=flat-square&logo=instagram"></a>
 <a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
