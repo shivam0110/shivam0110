@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
+ <a href="https://drive.google.com/file/d/1_d-k-w_0DvLELZPo8lNI8QMc8RRqBK13/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-black?style=flat-square"></a>
+<br>
 <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/shivammalpani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sh1v__am/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sh1v__am-black?style=flat-square&logo=instagram"></a>
