@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++ | C 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJS | Flask | AWS
 - 🛢 &nbsp; MySQL | MongoDB
 <!--
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>🛠 To Learn</h3>
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; Docker🐳 | Firebase
 <hr>
 
 <br/><br/>
