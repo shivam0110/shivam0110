@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Building and coding stuff.
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>🛠 To Learn</h3>
-- 🔧 &nbsp; Docker🐳 | Firebase
+- 🔧 &nbsp; A lot!
 <hr>
 
 <br/><br/>
